@@ -58,4 +58,4 @@ LOOSH documentation covers API/runtime deployment, static storefront artifacts, 
 
 ## Contact
 
-Need a white-label engineer for e-commerce operations, dashboards, or production stabilization? Contact [zjawad1999@gmail.com](mailto:zjawad1999@gmail.com).
+Need a white-label engineer for e-commerce operations, dashboards, or production stabilization? Contact [mjawadzeineddine@gmail.com](mailto:mjawadzeineddine@gmail.com).
