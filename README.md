@@ -8,6 +8,9 @@ LOOSH is an e-commerce system built around practical storefront and owner-operat
 
 ![Representative LOOSH storefront and admin demo](assets/loosh-commerce-demo.svg)
 
+**Need a serious commerce platform with inventory and operational workflows?** [Send a project brief](https://docs.google.com/forms/d/e/1FAIpQLSeTtJoymcR3Zr4JdVvCq8lY1yuiyp6w_FI_hqiLG6IvEJgqDg/viewform) or [explore my engineering services](https://mjszeineddine.github.io/). This case study documents selected design decisions without exposing confidential client code.
+
+
 ## Business Problem
 
 Small commerce operators need more than a storefront. They need product operations, clear inventory handling, cash-on-delivery order management, support surfaces, delivery rules, localized currency presentation, and a deployable system that can be handed off without relying on manual developer intervention.
